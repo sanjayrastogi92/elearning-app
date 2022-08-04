@@ -6,4 +6,7 @@ public class Book {
 		return "Hi";
 	}
 
+	public String seeYouLater() {
+		return "Bye Bye";
+	}
 }
